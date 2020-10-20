@@ -1,10 +1,10 @@
-Блокчейн биткоина хранит все когда-либо используемые адреса и транзакции между ними. 
+The bitcoin blockchain stores all addresses ever used and transactions between them.
 
-Так как все транзакции между адресами прозрачны, можно видеть сколько денег ушло от одного владельца к другому (это называется сash flow). 
+Since all transactions between addresses are transparent, you can see how much money has gone from one owner to another (this is called cash flow).
 
-Необходимо посчитать сash flow между двумя кластерами адресов.
+It is necessary to calculate cash flow between two clusters of addresses.
 
-Сколько биткоинов отправил кластер 1 в кластер 2 и сколько кластер 2 отправил в кластер 1?
-Сколько биткоинов отправил кластер 1 в кластер 0 и сколько кластер 0 отправил в кластер 1?
-Сколько биткоинов отправил кластер 2 в кластер 0 и сколько кластер 0 отправил в кластер 2?
-Сколько биткоинов потратил кластер 1 и кластер 2 на fee?
+How many bitcoins did cluster 1 send to cluster 2 and how many bitcoins did cluster 2 send to cluster 1?
+How many bitcoins did cluster 1 send to cluster 0 and how many did cluster 0 send to cluster 1?
+How many bitcoins did cluster 2 send to cluster 0 and how many did cluster 0 send to cluster 2?
+How many bitcoins did cluster 1 and cluster 2 spend on fee?
